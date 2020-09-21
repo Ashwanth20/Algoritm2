@@ -1,2 +1,2 @@
-# Algoritm2
-created functions with parameters for bounceOff and isTouching. Created libraries also
+# p5.play-boilerplate
+Boiler plate for p5.play
